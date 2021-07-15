@@ -1,3 +1,4 @@
+# DEPRECATED DO NOT USE --> USE Novidia instead
 # DivaImGui (x64)
 
 An in-game UI which can be used with [TLAC](https://github.com/samyuu/TotallyLegitArcadeController) or [PD-Loader](https://notabug.org/nastys/PD-Loader).
